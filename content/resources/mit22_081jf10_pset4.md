@@ -4,7 +4,11 @@ description: This resource contains problem statements related to process econom
   and geothermal heat pump system.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-081j-introduction-to-sustainable-energy-fall-2010/1e1aa0603fff2ed6d2a409aa9ffcc370_MIT22_081JF10_pset4.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Assignments and Exams
+parent_type: CourseSection
 resourcetype: Document
 title: MIT22_081JF10_pset4.pdf
+type: OCWFile
 uid: 1e1aa060-3fff-2ed6-d2a4-09aa9ffcc370
 ---

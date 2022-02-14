@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Assignments and Exams
+type: CourseSection
 uid: 246e85fa-874a-ef91-992e-4b1aec92dc98
 ---
 
