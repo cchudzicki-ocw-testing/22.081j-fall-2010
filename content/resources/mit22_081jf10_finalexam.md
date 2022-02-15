@@ -8,6 +8,5 @@ parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_081JF10_finalexam.pdf
-type: OCWFile
 uid: 6bebe69d-0408-e9ee-a940-95244c45fcd7
 ---

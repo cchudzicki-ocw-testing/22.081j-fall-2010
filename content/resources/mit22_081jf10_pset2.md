@@ -9,6 +9,5 @@ parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_081JF10_pset2.pdf
-type: OCWFile
 uid: 70085153-22a2-8ed6-f2a7-a9fdb6864708
 ---

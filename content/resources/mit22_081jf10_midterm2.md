@@ -8,6 +8,5 @@ parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_081JF10_midterm2.pdf
-type: OCWFile
 uid: b3d43bf1-72b2-5572-ebd9-d3dac25a21c2
 ---
