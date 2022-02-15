@@ -5,6 +5,7 @@ description: This resource contains problem statements related to capacity facto
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-081j-introduction-to-sustainable-energy-fall-2010/ce7b6ecaa5d772221a698e8fc4467ff1_MIT22_081JF10_pset1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document

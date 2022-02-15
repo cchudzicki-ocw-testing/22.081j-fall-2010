@@ -5,6 +5,7 @@ description: This resource contains problem statements related to probability de
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-081j-introduction-to-sustainable-energy-fall-2010/9b4ffa8784b1d7d5229f48d352a2abb6_MIT22_081JF10_midterm1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document

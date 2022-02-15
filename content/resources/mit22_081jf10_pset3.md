@@ -5,6 +5,7 @@ description: This resource contains problem statements related to energy demand,
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-081j-introduction-to-sustainable-energy-fall-2010/c6c63a6818c790da6098b76865c247cd_MIT22_081JF10_pset3.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document

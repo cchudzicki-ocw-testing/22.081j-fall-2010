@@ -5,6 +5,7 @@ description: This resource contains problem statements related to petroleum savi
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-081j-introduction-to-sustainable-energy-fall-2010/737e29b4cd0638fc08ca4aaea81e7481_MIT22_081JF10_pset8.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains problem statements related to radiation, and
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-081j-introduction-to-sustainable-energy-fall-2010/369a733ab1b89e2ac5f9227469059213_MIT22_081JF10_pset6.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
 resourcetype: Document
