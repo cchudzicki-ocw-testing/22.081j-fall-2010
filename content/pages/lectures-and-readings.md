@@ -10,7 +10,7 @@ Readings are assigned from the course text:
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262017473) Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters. [_S__ustainable Energy: Choosing Among Options_](https://mitpress.mit.edu/9780262017473). 2nd edition. MIT Press, 2012. ISBN: 9780262017473.
 
-Additional readings are listed on the {{< resource_link 87983f9c-4bae-6c3e-715c-01bf63aca0d8 "Related Resources" >}} page. All lecture slides posted below are used with permission of the authors. Many lecture sessions are split in two, with separate lecturers, presentations, and readings for each part.
+Additional readings are listed on the {{% resource_link 87983f9c-4bae-6c3e-715c-01bf63aca0d8 "Related Resources" %}} page. All lecture slides posted below are used with permission of the authors. Many lecture sessions are split in two, with separate lecturers, presentations, and readings for each part.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -61,11 +61,11 @@ Introduction
 {{< tdopen >}}
 
 
-Overview and administration ({{< resource_link 414f6cb7-ead7-ac29-798f-477f1b065859 "PDF" >}})
+Overview and administration ({{% resource_link 414f6cb7-ead7-ac29-798f-477f1b065859 "PDF" %}})
 
-Energy uses in different countries (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link ff50ecb2-db48-f847-55b9-7c270f386dd0 "PDF - 9.4MB" >}})
+Energy uses in different countries (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ff50ecb2-db48-f847-55b9-7c270f386dd0 "PDF - 9.4MB" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 9340e6d4-54e2-27e4-7045-3a94c16f8629 "PDF - 8.9MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9340e6d4-54e2-27e4-7045-3a94c16f8629 "PDF - 8.9MB" %}})
 
 
 {{< tdclose >}}
@@ -93,7 +93,7 @@ Overview of energy use and related issues
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a0eac4cd-3f65-5795-dad6-2021b1a4c769 "PDF - 1.3MB" >}})
+({{% resource_link a0eac4cd-3f65-5795-dad6-2021b1a4c769 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 9
@@ -127,7 +127,7 @@ Global climate change issues and responses
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e2af42d2-014c-25ba-2516-32594ebb60d8 "PDF - 1.8MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e2af42d2-014c-25ba-2516-32594ebb60d8 "PDF - 1.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 4.1-4.3
@@ -157,7 +157,7 @@ Toolbox 1: Energy transfer and conversion methods
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e538c44f-7b16-f6c0-ebfe-98ad37f42e5b "PDF" >}})
+({{% resource_link e538c44f-7b16-f6c0-ebfe-98ad37f42e5b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 3
@@ -193,7 +193,7 @@ Sustainability, energy, and clean technologies in context
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 159d87b0-15b4-bd28-d95e-61165011595c "PDF" >}})
+({{% resource_link 159d87b0-15b4-bd28-d95e-61165011595c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 6.1, 6.4-6.6
@@ -221,7 +221,7 @@ Recitation 1: Discussion of sustainability issues
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a5660d8e-e904-b94a-5bd4-24e0a600a172 "PDF" >}})
+({{% resource_link a5660d8e-e904-b94a-5bd4-24e0a600a172 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
   
@@ -252,7 +252,7 @@ Toolbox 2: Resource evaluation and depletion analyses
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 069e127c-6553-8978-8664-7a67ebf88940 "PDF" >}})
+({{% resource_link 069e127c-6553-8978-8664-7a67ebf88940 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 2
@@ -286,7 +286,7 @@ Toolbox 3: Energy conversion, transmission, and storage
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 1e9d581b-869d-b30a-c41c-b7818d3cae2c "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1e9d581b-869d-b30a-c41c-b7818d3cae2c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 16
@@ -304,7 +304,7 @@ Katherine Dykes, MIT Engineering Systems Division
 "Wind Power Fundamentals." (contributions from Alex Kalmikov and Kathy Araujo)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 1b8f7cf6-9542-2738-3a32-3ce08ffe6ae6 "PDF - 3.8MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1b8f7cf6-9542-2738-3a32-3ce08ffe6ae6 "PDF - 3.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 15
@@ -330,7 +330,7 @@ Toolbox 4: Systems analysis methodologies
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c5543aa3-b20b-f25c-f710-7886c8ecc7c5 "PDF" >}})
+({{% resource_link c5543aa3-b20b-f25c-f710-7886c8ecc7c5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Section 6.2, 6.3
@@ -360,7 +360,7 @@ Toolbox 5: Energy supply, demand, and storage planning
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 187b226b-2a81-25aa-2c00-47f2b4dc5d6b "PDF" >}})
+({{% resource_link 187b226b-2a81-25aa-2c00-47f2b4dc5d6b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -384,7 +384,7 @@ The electric power system and requirements for success
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a070ea06-743b-474b-d8cc-e97d0686dc97 "PDF - 1.6MB" >}})
+({{% resource_link a070ea06-743b-474b-d8cc-e97d0686dc97 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 17
@@ -408,7 +408,7 @@ Historical factor and prospects for change in the electric power grid
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 96424e5d-edc3-6ef3-0cc8-cf7f178df2b5 "PDF - 2.2MB" >}})
+({{% resource_link 96424e5d-edc3-6ef3-0cc8-cf7f178df2b5 "PDF - 2.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -426,7 +426,7 @@ Wright
 Toolbox 6: Electrical systems dynamics
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 327ed2c5-275c-48dc-2fca-48a4017c757a "PDF" >}})
+({{% resource_link 327ed2c5-275c-48dc-2fca-48a4017c757a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -458,7 +458,7 @@ Toolbox 7: Economic feasibility assessment methods
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 390d0e72-f534-c7d1-da56-ef18de2b0be0 "PDF" >}})
+({{% resource_link 390d0e72-f534-c7d1-da56-ef18de2b0be0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 5
@@ -488,7 +488,7 @@ Toolbox 8: Thermodynamics and efficiency calculations
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 411beca0-4e9b-15f5-ca2c-aed33b4a801d "PDF" >}})
+({{% resource_link 411beca0-4e9b-15f5-ca2c-aed33b4a801d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 3
@@ -518,7 +518,7 @@ Carbon limitation policy options
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 371eaaf6-c604-e383-513a-7277c7fdd08d "PDF" >}})
+({{% resource_link 371eaaf6-c604-e383-513a-7277c7fdd08d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -539,7 +539,7 @@ Golay
 Nuclear energy I: Basics and current status
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 0e45a3db-7a9e-16fa-7b4f-757767fdf5ea "PDF - 1.8MB" >}})
+({{% resource_link 0e45a3db-7a9e-16fa-7b4f-757767fdf5ea "PDF - 1.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 8
@@ -565,7 +565,7 @@ Fossil energy I
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2398af71-e42a-157e-3de9-9d3c10b28b1a "PDF" >}})
+({{% resource_link 2398af71-e42a-157e-3de9-9d3c10b28b1a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 15
@@ -597,7 +597,7 @@ Fossil energy II
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 828ebb41-bfc2-4800-27fa-671751083265 "PDF - 1.1MB" >}})
+({{% resource_link 828ebb41-bfc2-4800-27fa-671751083265 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -633,7 +633,7 @@ Chapter 7
 Current energy policy
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9063ff34-44c7-1d54-fd35-76cf5efc7740 "PDF - 3.0MB" >}})
+({{% resource_link 9063ff34-44c7-1d54-fd35-76cf5efc7740 "PDF - 3.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -657,7 +657,7 @@ Transportation in developing countries
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 60aaac72-c864-4088-f7b1-5bc9d0e3df5c "PDF - 2.3MB" >}})
+({{% resource_link 60aaac72-c864-4088-f7b1-5bc9d0e3df5c "PDF - 2.3MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -687,7 +687,7 @@ Fossil energy III
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 54960cad-c1f4-6e89-0401-b1f28b524e41 "PDF - 1.2MB" >}})
+({{% resource_link 54960cad-c1f4-6e89-0401-b1f28b524e41 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -723,7 +723,7 @@ Golay
 Nuclear energy II: Waste disposal and Yucca Mountain
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 97c769b2-127d-9444-467c-1e7546f9b469 "PDF - 5.5MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 97c769b2-127d-9444-467c-1e7546f9b469 "PDF - 5.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -741,7 +741,7 @@ Golay
 Nuclear energy III: Expansion of civilian nuclear power and proliferation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 9e0b0e84-1ee5-98c0-7f14-3665c6c026de "PDF - 1.9MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9e0b0e84-1ee5-98c0-7f14-3665c6c026de "PDF - 1.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -759,7 +759,7 @@ Wright
 Fusion as a future energy source?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 724c5f5e-9ebb-9643-2c71-a255338a15ae "PDF - 3.1MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 724c5f5e-9ebb-9643-2c71-a255338a15ae "PDF - 3.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -851,7 +851,7 @@ Hussein Abdelhalim, Mark Artz, et al.
 Recitation 2: Carbon limitation options / critique (student-led discussion)
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3d706ca3-7225-8e1e-dbe9-a6a26fd77086 "PDF" >}})
+({{% resource_link 3d706ca3-7225-8e1e-dbe9-a6a26fd77086 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -879,7 +879,7 @@ Biomass I: Resources and uses
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 61bdcdd4-acf4-bc3e-cb81-ba8a7ac78540 "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 61bdcdd4-acf4-bc3e-cb81-ba8a7ac78540 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -897,7 +897,7 @@ Green
 Biomass II: Producing liquid fuels
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 62854a6d-0092-0579-189c-a8506e2c36af "PDF - 1.3MB" >}})
+({{% resource_link 62854a6d-0092-0579-189c-a8506e2c36af "PDF - 1.3MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -931,7 +931,7 @@ Transportation
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ea29b116-4df9-c1ea-1639-8e244194d2ec "PDF - 2.2MB" >}})
+({{% resource_link ea29b116-4df9-c1ea-1639-8e244194d2ec "PDF - 2.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 18.4-18.6
@@ -957,7 +957,7 @@ Lifecycle analysis of biomass conversion
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 114ec00c-3a30-e8b2-a22f-9de52d67fbab "PDF" >}})
+({{% resource_link 114ec00c-3a30-e8b2-a22f-9de52d67fbab "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -981,7 +981,7 @@ Wind system dynamics, barriers to entry
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 509bf6a5-20be-dbdc-d654-c5c81e026684 "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 509bf6a5-20be-dbdc-d654-c5c81e026684 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 17
@@ -1009,7 +1009,7 @@ Electrochemical energy conversions
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link bc5ddccf-28ce-b56d-779f-52fefc38f912 "PDF - 4.6MB" >}})
+({{% resource_link bc5ddccf-28ce-b56d-779f-52fefc38f912 "PDF - 4.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -1033,7 +1033,7 @@ Sustainable buildings in developing countries
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 24620c1f-bd0b-8655-c786-c9ed9a26328d "PDF - 4.6MB" >}})
+({{% resource_link 24620c1f-bd0b-8655-c786-c9ed9a26328d "PDF - 4.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 20
@@ -1051,7 +1051,7 @@ Golay
 Toolbox 9: Probabilistic risk analysis
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e5d25cba-736c-8866-c310-af09a1a6d53e "PDF - 3.2MB" >}})
+({{% resource_link e5d25cba-736c-8866-c310-af09a1a6d53e "PDF - 3.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -1069,7 +1069,7 @@ Edward Alfano, et al.
 Recitation 3: Current energy policy / critique (student-led discussion)
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 94924e7d-20d5-2174-01c3-74fceba174e6 "PDF" >}})
+({{% resource_link 94924e7d-20d5-2174-01c3-74fceba174e6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -1093,7 +1093,7 @@ Corporate and international efforts to abate global climate change; sustainabili
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 8afda47d-ff6e-f70b-b8ca-06b26b82535b "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8afda47d-ff6e-f70b-b8ca-06b26b82535b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -1111,7 +1111,7 @@ Golay
 Hydropower
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 68ee6fb4-8d87-d840-d6db-9e254453d4c2 "PDF - 2.6MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 68ee6fb4-8d87-d840-d6db-9e254453d4c2 "PDF - 2.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -1135,7 +1135,7 @@ Challenges and options for electricity systems in Sub-Saharan Africa
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 01a1ce25-6e33-da25-25f3-29e957d16851 "PDF - 7.9MB" >}})
+({{% resource_link 01a1ce25-6e33-da25-25f3-29e957d16851 "PDF - 7.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chapter 12
