@@ -8,7 +8,7 @@ uid: e7a00e10-1594-2743-50ff-a5b52e167aa5
 ---
 Readings are assigned from the course text:
 
-![Buy at MIT Press](/images/mp_logo.gif) Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters. [_S\_\_ustainable Energy: Choosing Among Options_](https://mitpress.mit.edu/9780262017473). 2nd edition. MIT Press, 2012. ISBN: 9780262017473.
+![Buy at MIT Press](/images/mp_logo.gif) Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters. [_Sustainable Energy: Choosing Among Options_](https://mitpress.mit.edu/9780262017473). 2nd edition. MIT Press, 2012. ISBN: 9780262017473.
 
 Additional readings are listed on the {{% resource_link 87983f9c-4bae-6c3e-715c-01bf63aca0d8 "Related Resources" %}} page. All lecture slides posted below are used with permission of the authors. Many lecture sessions are split in two, with separate lecturers, presentations, and readings for each part.
 
@@ -32,7 +32,9 @@ Golay
 
 Introduction
 
-\- Historical context (the post steam engine evolving growth of the developed countries, superimposed on the growing energy needs of the less-developed countries)
+\- Historical context 
+
+(the post steam engine evolving growth of the developed countries, superimposed on the growing energy needs of the less-developed countries)
 
 \- Energy sources for a more sustainable future
 
