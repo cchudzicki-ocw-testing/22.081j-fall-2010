@@ -44,9 +44,9 @@ Overview and administration ({{% resource_link 414f6cb7-ead7-ac29-798f-477f1b065
 
 Energy uses in different countries 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ff50ecb2-db48-f847-55b9-7c270f386dd0 "PDF - 9.4MB" %}})
+({{% resource_link ff50ecb2-db48-f847-55b9-7c270f386dd0 "PDF - 9.4MB" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9340e6d4-54e2-27e4-7045-3a94c16f8629 "PDF - 8.9MB" %}})
+({{% resource_link 9340e6d4-54e2-27e4-7045-3a94c16f8629 "PDF - 8.9MB" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 Chapter 1
@@ -87,7 +87,7 @@ Global climate change issues and responses
 \- Mitigation?
 
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e2af42d2-014c-25ba-2516-32594ebb60d8 "PDF - 1.8MB" %}})
+({{% resource_link e2af42d2-014c-25ba-2516-32594ebb60d8 "PDF - 1.8MB" %}})
 {{< tdclose >}}{{< tdopen >}}
 Sections 4.1-4.3
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -195,7 +195,7 @@ Toolbox 3: Energy conversion, transmission, and storage
 \- Transmission of fossil fuels and electricity
 
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1e9d581b-869d-b30a-c41c-b7818d3cae2c "PDF" %}})
+({{% resource_link 1e9d581b-869d-b30a-c41c-b7818d3cae2c "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Chapter 16
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -205,7 +205,7 @@ Katherine Dykes, MIT Engineering Systems Division
 {{< tdclose >}}{{< tdopen >}}
 "Wind Power Fundamentals." (contributions from Alex Kalmikov and Kathy Araujo)
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1b8f7cf6-9542-2738-3a32-3ce08ffe6ae6 "PDF - 3.8MB" %}})
+({{% resource_link 1b8f7cf6-9542-2738-3a32-3ce08ffe6ae6 "PDF - 3.8MB" %}})
 {{< tdclose >}}{{< tdopen >}}
 Chapter 15
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -465,7 +465,7 @@ Golay
 {{< tdclose >}}{{< tdopen >}}
 Nuclear energy II: Waste disposal and Yucca Mountain
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 97c769b2-127d-9444-467c-1e7546f9b469 "PDF - 5.5MB" %}})
+({{% resource_link 97c769b2-127d-9444-467c-1e7546f9b469 "PDF - 5.5MB" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -475,7 +475,7 @@ Golay
 {{< tdclose >}}{{< tdopen >}}
 Nuclear energy III: Expansion of civilian nuclear power and proliferation
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9e0b0e84-1ee5-98c0-7f14-3665c6c026de "PDF - 1.9MB" %}})
+({{% resource_link 9e0b0e84-1ee5-98c0-7f14-3665c6c026de "PDF - 1.9MB" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -485,7 +485,7 @@ Wright
 {{< tdclose >}}{{< tdopen >}}
 Fusion as a future energy source?
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 724c5f5e-9ebb-9643-2c71-a255338a15ae "PDF - 3.1MB" %}})
+({{% resource_link 724c5f5e-9ebb-9643-2c71-a255338a15ae "PDF - 3.1MB" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -561,7 +561,7 @@ Biomass I: Resources and uses
 \- Economic projections
 
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 61bdcdd4-acf4-bc3e-cb81-ba8a7ac78540 "PDF" %}})
+({{% resource_link 61bdcdd4-acf4-bc3e-cb81-ba8a7ac78540 "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -621,7 +621,7 @@ Katherine Dykes, MIT Engineering Systems Division
 Wind system dynamics, barriers to entry
 
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 509bf6a5-20be-dbdc-d654-c5c81e026684 "PDF" %}})
+({{% resource_link 509bf6a5-20be-dbdc-d654-c5c81e026684 "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Chapter 17
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -687,7 +687,7 @@ Recitation 3: Current energy policy / critique (student-led discussion)
 Corporate and international efforts to abate global climate change; sustainability and global business
 
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8afda47d-ff6e-f70b-b8ca-06b26b82535b "PDF" %}})
+({{% resource_link 8afda47d-ff6e-f70b-b8ca-06b26b82535b "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -697,7 +697,7 @@ Golay
 {{< tdclose >}}{{< tdopen >}}
 Hydropower
 {{< tdclose >}}{{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 68ee6fb4-8d87-d840-d6db-9e254453d4c2 "PDF - 2.6MB" %}})
+({{% resource_link 68ee6fb4-8d87-d840-d6db-9e254453d4c2 "PDF - 2.6MB" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
