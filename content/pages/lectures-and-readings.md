@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the topics covered, the lecture slides, and the
+  readings assigned for each session of the course.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
