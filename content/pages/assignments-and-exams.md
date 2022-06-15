@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments, exams with solutions,
+  and details on the term paper required for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Exams
