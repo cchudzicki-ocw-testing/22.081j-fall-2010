@@ -5,6 +5,7 @@ description: This resource contains problem statements related to process econom
 file: /courses/22-081j-introduction-to-sustainable-energy-fall-2010/1e1aa0603fff2ed6d2a409aa9ffcc370_MIT22_081JF10_pset4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
